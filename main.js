@@ -28,21 +28,21 @@ const questions = [
   {
     question: "1?",
     options: ["1", "2", "3", "4"],
-    rightAnswer: 1,
+    rightAnswer: 0,
   },
   {
     question: "2?",
-    options: ["1", "3", "4", "5"],
+    options: ["1", "3", "2", "5"],
     rightAnswer: 2,
   },
   {
     question: "3?",
-    options: ["5", "6", "7", "8"],
+    options: ["3", "6", "7", "8"],
     rightAnswer: 0,
   },
   {
     question: "10",
-    options: ["1", "2", "3", "4"],
+    options: ["1", "10", "3", "4"],
     rightAnswer: 1,
   },
 ];
